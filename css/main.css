@@ -188,5 +188,5 @@ li span {
 }
 
 .waubutton {
-    display: none;
+    display: none!important;
 }
