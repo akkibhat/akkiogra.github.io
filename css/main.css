@@ -182,3 +182,7 @@ li span {
 .text-right {
     text-align: right;
 }
+
+.h-20 {
+    height: 10em!important;
+}
