@@ -186,3 +186,7 @@ li span {
 .h-20 {
     height: 10em!important;
 }
+
+.waubutton {
+    display: none;
+}
